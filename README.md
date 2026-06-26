@@ -1,5 +1,13 @@
-Company Industry Analysis
+                                                          Company Industry Analysis
+
+
 <img width="1536" height="1024" alt="Company Industry Analysis" src="https://github.com/user-attachments/assets/a37a49cb-3354-4730-bb66-0913f0a2f85f" />
+
+
+🔗 Reference
+
+Original DataCamp SQL Project:
+https://projects.datacamp.com/projects/1531
 
 📖 Overview
 This SQL project analyzes company industry growth using a PostgreSQL database of high-growth companies. By joining multiple relational tables, the project identifies which industries produced the most new companies between 2019 and 2021 while comparing yearly growth and average company valuations.
